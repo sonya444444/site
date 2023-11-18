@@ -1,0 +1,18 @@
+.sidebar {
+width: 375px;
+background-color: rgb(184, 176, 219);
+height: 100%;
+
+display: flex;
+flex-direction: column;
+gap: 20px;
+align-items: center;
+padding-top: 50px;
+justify-content: space-evenly ;
+padding-left: 40px;
+}
+.sidebar-item {
+width: 250px;
+background-color: rgb(179, 179, 211);
+height: 120px;
+}
