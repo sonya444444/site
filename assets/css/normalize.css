@@ -84,3 +84,11 @@ a {
     color: #5671A6;
     background: none;
 }
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.main {
+display: flex;
+flex-grow: 1;
+}
