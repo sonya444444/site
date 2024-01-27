@@ -29,6 +29,7 @@ margin-top: 20px;
 .choice-block__btn {
 display: flex;
 gap: 8px;
+cursor: pointer;
 }
 
 .page-about__profile-list {
